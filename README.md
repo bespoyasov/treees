@@ -7,6 +7,7 @@ Trees images [generator](https://bespoyasov.ru/showcase/treees/) made with TypeS
 The blog post about it:
 
 - [🇷🇺 Рисуем деревья на Canvas с помощью L-систем, TypeScript и ООП](https://bespoyasov.ru/blog/generating-trees-on-canvas-using-typescript-and-oop)
+- [🇺🇸 Generating Trees Images on Canvas Using L-Systems, TypeScript and OOP](https://dev.to/bespoyasov/generating-trees-images-on-canvas-using-l-systems-typescript-and-oop-47p0)
 
 ## Credits
 
